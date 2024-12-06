@@ -1,0 +1,26 @@
+[
+  {
+    "name": "NUMPA",
+    "symbol": "🟠",
+    "value": 240,
+    "evolution_from": "",
+    "evolution_level": null,
+    "imageSrc": "numpa.png",
+    "attacks": [
+      { "symbol": "🟠", "name": "Clamp", "damage": 60 },
+      { "symbol": "🟠🟠", "name": "Drill", "damage": 120 }
+    ]
+  },
+  {
+    "name": "NUMPA",
+    "symbol": "🟠",
+    "value": 290,
+    "evolution_from": "NUMPA",
+    "evolution_level": "E",
+    "imageSrc": "numpa_e.png",
+    "attacks": [
+      { "symbol": "🟠🟠", "name": "Drill", "damage": 120 },
+      { "symbol": "🟠🟠🟠", "name": "Zap Dig", "damage": 170 }
+    ]
+  }
+]

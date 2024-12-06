@@ -1,0 +1,62 @@
+[
+  {
+    "name": "ZARK",
+    "symbol": "🟣",
+    "value": 310,
+    "evolution_from": "",
+    "evolution_level": "",
+    "imageSrc": "zark.png",
+    "attacks": [
+      {
+        "symbol": "🟣🟣",
+        "name": "Psychic tornado",
+        "damage": 110
+      },
+      {
+        "symbol": "🟣🟣🟣",
+        "name": "Drangon king",
+        "damage": 210
+      },
+      {
+        "symbol": "🟣🟣🟣🟣",
+        "name": "Elemental Darkness",
+        "damage": 300
+      }
+    ],
+    "specials": [
+      {
+        "action": "Draw 3 cards"
+      }
+    ]
+  },
+  {
+    "name": "ZARK",
+    "symbol": "🟣",
+    "value": 310,
+    "evolution_from": "",
+    "evolution_level": "",
+    "imageSrc": "zark.png",
+    "attacks": [
+      {
+        "symbol": "🟣🟣",
+        "name": "Psychic tornado",
+        "damage": 110
+      },
+      {
+        "symbol": "🟣🟣🟣",
+        "name": "Drangon king",
+        "damage": 210
+      },
+      {
+        "symbol": "🟣🟣🟣🟣",
+        "name": "Elemental Darkness",
+        "damage": 300
+      }
+    ],
+    "specials": [
+      {
+        "action": "Draw 3 cards"
+      }
+    ]
+  }
+]

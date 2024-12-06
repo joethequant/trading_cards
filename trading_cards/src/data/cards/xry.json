@@ -1,0 +1,58 @@
+[
+  {
+    "name": "XRY",
+    "symbol": "⚪",
+    "value": 310,
+    "imageSrc": "xry.png",
+    "attacks": [
+      {
+        "symbol": "⚪",
+        "name": "Roar",
+        "damage": 120
+      },
+      {
+        "symbol": "⚪⚪",
+        "name": "Swipe of Chaos",
+        "damage": 180
+      },
+      {
+        "symbol": "⚪⚪⚪⚪",
+        "name": "Lion king",
+        "damage": 350
+      }
+    ],
+    "specials": [
+      {
+        "action": "Get a ⚪ type from deck."
+      }
+    ]
+  },
+  {
+    "name": "XRY",
+    "symbol": "⚪",
+    "value": 310,
+    "imageSrc": "xry.png",
+    "attacks": [
+      {
+        "symbol": "⚪",
+        "name": "Roar",
+        "damage": 120
+      },
+      {
+        "symbol": "⚪⚪",
+        "name": "Swipe of Chaos",
+        "damage": 180
+      },
+      {
+        "symbol": "⚪⚪⚪⚪",
+        "name": "Lion king",
+        "damage": 350
+      }
+    ],
+    "specials": [
+      {
+        "action": "Get a ⚪ type from deck."
+      }
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "name": "MERM",
+    "symbol": "⚪",
+    "value": 60,
+    "evolution_from": "",
+    "evolution_level": "",
+    "imageSrc": "merm.png",
+    "attacks": [
+      {
+        "symbol": "⚪",
+        "name": "Punch",
+        "damage": 30
+      }
+    ],
+    "specials": [
+      {
+        "action": "Draw 1 Card"
+      }
+    ]
+  },
+  {
+    "name": "MERM",
+    "symbol": "⚪",
+    "value": 120,
+    "evolution_from": "MERM",
+    "evolution_level": "E",
+    "imageSrc": "merm_e.png",
+    "attacks": [
+      {
+        "symbol": "⚪⚪",
+        "name": "Crush",
+        "damage": 60
+      }
+    ],
+    "specials": [
+      {
+        "action": "Draw 2 Card"
+      }
+    ]
+  },
+
+  {
+    "name": "MERM",
+    "symbol": "⚪",
+    "value": 190,
+    "evolution_from": "E MERM",
+    "evolution_level": "EE",
+    "imageSrc": "merm_ee.png",
+    "attacks": [
+      {
+        "symbol": "⚪",
+        "name": "Cuteness",
+        "damage": 20
+      },
+      {
+        "symbol": "⚪⚪",
+        "name": "Creepy Face",
+        "damage": 190
+      }
+    ],
+    "specials": [
+      {
+        "action": "Draw 3 Card"
+      }
+    ]
+  }
+]

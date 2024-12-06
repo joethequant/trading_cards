@@ -1,0 +1,52 @@
+[
+  {
+    "name": "SRAS",
+    "symbol": "🟢",
+    "value": 190,
+    "evolution_from": "",
+    "evolution_level": "",
+    "imageSrc": "sras.png",
+    "attacks": [
+      {
+        "symbol": "🟢",
+        "name": "Despise",
+        "damage": 90
+      },
+      {
+        "symbol": "🟢🟢",
+        "name": "Wither",
+        "damage": 210
+      }
+    ],
+    "specials": [
+      {
+        "action": "Draw 1 card"
+      }
+    ]
+  },
+  {
+    "name": "SRAS",
+    "symbol": "🟢",
+    "value": 190,
+    "evolution_from": "",
+    "evolution_level": "",
+    "imageSrc": "sras.png",
+    "attacks": [
+      {
+        "symbol": "🟢",
+        "name": "Despise",
+        "damage": 90
+      },
+      {
+        "symbol": "🟢🟢",
+        "name": "Wither",
+        "damage": 210
+      }
+    ],
+    "specials": [
+      {
+        "action": "Draw 1 card"
+      }
+    ]
+  }
+]

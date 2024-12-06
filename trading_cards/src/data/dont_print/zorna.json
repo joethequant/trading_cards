@@ -1,0 +1,25 @@
+[
+  {
+    "name": "ZORNA",
+    "symbol": "🟣",
+    "value": 180,
+    "imageSrc": "zorna.png",
+    "attacks": [
+      {
+        "symbol": "🟣",
+        "name": "Slash",
+        "damage": 50
+      },
+      {
+        "symbol": "🟣🟣",
+        "name": "Thunder Strike",
+        "damage": 100
+      }
+    ],
+    "specials": [
+      {
+        "action": "Draw 1 Card"
+      }
+    ]
+  }
+]

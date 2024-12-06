@@ -1,0 +1,27 @@
+[
+  {
+    "name": "ZOLO",
+    "symbol": "🟢",
+    "value": 240,
+    "evolution_from": "",
+    "evolution_level": "",
+    "imageSrc": "zolo.png",
+    "attacks": [
+      {
+        "symbol": "🟢",
+        "name": "Shout",
+        "damage": 90
+      },
+      {
+        "symbol": "🟢🟢",
+        "name": "Venomous Gleen",
+        "damage": 10
+      }
+    ],
+    "specials": [
+      {
+        "action": "Opponent can't attach"
+      }
+    ]
+  }
+]

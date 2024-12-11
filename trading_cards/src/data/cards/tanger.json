@@ -1,0 +1,27 @@
+[
+  {
+    "name": "TANGER",
+    "symbol": "🟢",
+    "value": 200,
+    "evolution_from": "",
+    "evolution_level": "",
+    "imageSrc": "tanger.png",
+    "attacks": [
+      {
+        "symbol": "🟢",
+        "name": "Fake Out",
+        "damage": 50
+      },
+      {
+        "symbol": "🟢🟢",
+        "name": "Blizard",
+        "damage": 110
+      }
+    ],
+    "specials": [
+      {
+        "action": "Draw 2 Cards"
+      }
+    ]
+  }
+]

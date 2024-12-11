@@ -1,0 +1,27 @@
+[
+  {
+    "name": "BRAMBA",
+    "symbol": "🟢",
+    "value": 200,
+    "evolution_from": "",
+    "evolution_level": "",
+    "imageSrc": "bramba.png",
+    "attacks": [
+      {
+        "symbol": "🟢",
+        "name": "Thorn Shot",
+        "damage": 50
+      },
+      {
+        "symbol": "🟢🟢",
+        "name": "Bramble Barrier",
+        "damage": 100
+      }
+    ],
+    "specials": [
+      {
+        "action": "Reduce incoming damage by 20"
+      }
+    ]
+  }
+]

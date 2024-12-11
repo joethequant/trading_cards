@@ -1,0 +1,27 @@
+[
+  {
+    "name": "FERNORA",
+    "symbol": "🟢",
+    "value": 190,
+    "evolution_from": "",
+    "evolution_level": "",
+    "imageSrc": "fernora.png",
+    "attacks": [
+      {
+        "symbol": "🟢",
+        "name": "Spore Cloud",
+        "damage": 40
+      },
+      {
+        "symbol": "🟢🟢",
+        "name": "Verdant Slash",
+        "damage": 120
+      }
+    ],
+    "specials": [
+      {
+        "action": "Stun Opponent for 1 Turn"
+      }
+    ]
+  }
+]

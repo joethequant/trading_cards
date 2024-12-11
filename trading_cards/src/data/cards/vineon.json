@@ -1,0 +1,27 @@
+[
+  {
+    "name": "VINEON",
+    "symbol": "🟢",
+    "value": 180,
+    "evolution_from": "",
+    "evolution_level": "",
+    "imageSrc": "vineon.png",
+    "attacks": [
+      {
+        "symbol": "🟢",
+        "name": "Entangle",
+        "damage": 60
+      },
+      {
+        "symbol": "🟢🟢",
+        "name": "Leaf Storm",
+        "damage": 100
+      }
+    ],
+    "specials": [
+      {
+        "action": "Heal 30 HP"
+      }
+    ]
+  }
+]

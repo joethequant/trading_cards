@@ -1,0 +1,16 @@
+[
+  {
+    "name": "DIMENON",
+    "symbol": "",
+    "value": null,
+    "evolution_from": "",
+    "evolution_level": "",
+    "imageSrc": "dimenon.png",
+    "attacks": [],
+    "specials": [
+      {
+        "action": "Draw 3 Cards"
+      }
+    ]
+  }
+]

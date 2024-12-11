@@ -1,0 +1,27 @@
+[
+  {
+    "name": "LOSO",
+    "symbol": "🟠",
+    "value": 160,
+    "evolution_from": "",
+    "evolution_level": "",
+    "imageSrc": "loso.png",
+    "attacks": [
+      {
+        "symbol": "🟠",
+        "name": "Cuteness",
+        "damage": 120
+      },
+      {
+        "symbol": "🟠🟠",
+        "name": "Impact",
+        "damage": 150
+      }
+    ],
+    "specials": [
+      {
+        "action": "Draw 1 Cards"
+      }
+    ]
+  }
+]

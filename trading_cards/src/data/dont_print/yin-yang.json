@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Yin-Yang",
+    "symbol": "⚪⚫",
+    "value": 250,
+    "evolution_from": "",
+    "evolution_level": "",
+    "imageSrc": "yin-yang.png",
+    "attacks": [
+      {
+        "symbol": "⚪",
+        "name": "Radiant Strike",
+        "damage": 120
+      },
+      {
+        "symbol": "⚫",
+        "name": "Shadow Surge",
+        "damage": 120
+      },
+      {
+        "symbol": "⚪⚫",
+        "name": "Balance Breaker",
+        "damage": 200
+      }
+    ],
+    "specials": [
+      {
+        "action": "Heal 50 or Block 50 Damage Next Turn"
+      }
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "name": "PYRAX",
+    "symbol": "🟠",
+    "value": 200,
+    "evolution_from": "",
+    "evolution_level": "",
+    "imageSrc": "pyrax.png",
+    "attacks": [
+      {
+        "symbol": "🟠",
+        "name": "Flame Burst",
+        "damage": 130
+      },
+      {
+        "symbol": "🟠🟠",
+        "name": "Inferno Strike",
+        "damage": 170
+      }
+    ],
+    "specials": [
+      {
+        "action": "Burn Opponent, Minus 30 Damage"
+      }
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Cheng",
+    "symbol": "⚫",
+    "value": 200,
+    "evolution_from": "",
+    "evolution_level": "",
+    "imageSrc": "cheng.png",
+    "attacks": [
+      {
+        "symbol": "⚫",
+        "name": "Shadow Strike",
+        "damage": 150
+      },
+      {
+        "symbol": "⚫⚫",
+        "name": "Underworld Fury",
+        "damage": 220
+      }
+    ],
+    "specials": [
+      {
+        "action": "Summon 1 Extra Card from Your Deck"
+      }
+    ]
+  }
+]

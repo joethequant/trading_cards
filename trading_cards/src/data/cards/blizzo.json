@@ -1,0 +1,27 @@
+[
+  {
+    "name": "BLIZZO",
+    "symbol": "⚪",
+    "value": 180,
+    "evolution_from": "",
+    "evolution_level": "",
+    "imageSrc": "blizzo.png",
+    "attacks": [
+      {
+        "symbol": "⚪",
+        "name": "Frostbite",
+        "damage": 110
+      },
+      {
+        "symbol": "⚪⚪",
+        "name": "Arctic Blast",
+        "damage": 160
+      }
+    ],
+    "specials": [
+      {
+        "action": "Opponent Can't attach for 1 Turn"
+      }
+    ]
+  }
+]

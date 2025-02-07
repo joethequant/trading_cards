@@ -1,0 +1,22 @@
+[
+  {
+    "name": "fryst",
+    "symbol": "🟠",
+    "value": 170,
+    "evolution_from": "",
+    "evolution_level": "",
+    "imageSrc": "fryst.png",
+    "attacks": [
+      {
+        "symbol": "🟠",
+        "name": "Flare",
+        "damage": 170
+      },
+      {
+        "symbol": "🟠🟠",
+        "name": "Destroy",
+        "damage": 250
+      }
+    ]
+  }
+]
